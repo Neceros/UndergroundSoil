@@ -8,9 +8,6 @@
             <designationCategory>Floors</designationCategory>
             <description>Soil, or dirt, is a perfect medium to grow plants in. Use this to pack dirt on top of rough-hewn stone to grow plants underground.</description>
             <constructEffect>ConstructDirt</constructEffect>
-            <costList>
-              <Steel>1</Steel>
-            </costList>
         </value>
     </Operation>
 
